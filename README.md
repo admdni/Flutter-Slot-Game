@@ -1,16 +1,19 @@
-# new_slotapp
+CosmicBlissSlot Game: A Fun and Energetic Gaming Experience
 
-A new Flutter project.
 
-## Getting Started
+<img width="939" alt="Ekran Resmi 2025-02-25 22 14 36" src="https://github.com/user-attachments/assets/045f5464-f25d-455e-988a-8ebb98e639a0" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="939" alt="Ekran Resmi 2025-02-25 22 15 01" src="https://github.com/user-attachments/assets/2bf78066-76c5-4c42-887c-417ede54898a" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+CosmicBliss is a completely fun slot game that offers players an exciting experience. The game offers three different game modes to players trying to achieve high scores. These various game modes create an experience that players of all levels can enjoy playing. CosmicBliss, unlike traditional slot games, does not include gambling and betting. This means that the game is designed only for fun, not for commercial purposes.
+
+
+
+the game is free
+
+no pay
+
+user data remains on the device as soon as it is collected
